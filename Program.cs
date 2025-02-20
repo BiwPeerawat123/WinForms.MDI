@@ -1,4 +1,4 @@
-namespace WinForms.MDI
+namespace WinForms.Minimart
 {
     internal static class Program
     {
